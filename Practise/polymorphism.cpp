@@ -46,7 +46,5 @@ int main() {
 	Shape *shape2 = &tri;
 	cout << shape1->get_area() << endl;
 	cout << shape2->get_area() << endl;
-
-
 	return 0;
 }
